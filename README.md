@@ -1,4 +1,4 @@
-# Adnroid-Stopwatch
+# Android-Stopwatch
 A simple Android stopwatch using JAVA (in Android Studio).
 
 ![HomePage](https://user-images.githubusercontent.com/109679563/180621359-f682f3d5-8290-4629-8185-a93597612cfa.png)
